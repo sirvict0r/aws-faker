@@ -13,8 +13,8 @@ One to two paragraph statement about your product and what it does.
 
 OS X & Linux:
 
-```sh
-npm install my-crazy-module --save
+```python
+pip install faker
 ```
 
 Windows:
